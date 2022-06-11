@@ -7,3 +7,6 @@ Convert SMTP requests to api calls
 - add handler to actions
 - do any stuff like saving to database
 - use predefined responses
+
+
+https://computer.howstuffworks.com/e-mail-messaging/email3.htm
